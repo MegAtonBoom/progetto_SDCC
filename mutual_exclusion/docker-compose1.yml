@@ -1,0 +1,46 @@
+version: "3.9"
+
+services:
+  registration_dc:
+    container_name: registerer_dc
+    hostname: registerer
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+      args:
+        service: 0
+    env_file: .env
+    networks:
+      - me_network
+    volumes:
+      - ./logs:/mutual_exclusion/logs
+
+  coord_dc:
+    container_name: coordinator_dc
+    hostname: coordinator
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+      args:
+        service: 1
+    env_file: .env
+    networks:
+      - me_network
+    volumes:
+      - ./logs:/mutual_exclusion/logs
+
+  peer_dc:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+      args:
+        service: 2
+    env_file: .env
+    networks:
+      - me_network
+    volumes:
+      - ./logs:/mutual_exclusion/logs
+
+networks:
+  me_network:
+    name: network0
