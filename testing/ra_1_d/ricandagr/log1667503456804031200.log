@@ -1,0 +1,16 @@
+2022/11/03 20:24:17 Peer registered with identifier: 0
+2022/11/03 20:24:18 Peer got the list of peers and started the simulation
+2022/11/03 20:24:21 The peer is now in state "REQUESTING": he will send the request messages
+2022/11/03 20:24:21 The peer is waiting to get all the 0 replies
+2022/11/03 20:24:21 ****START CRITICAL SECTION**** state: "CS"
+2022/11/03 20:24:30 ****END CRITICAL SECTION**** state: "NCS"
+2022/11/03 20:24:34 The peer is now in state "REQUESTING": he will send the request messages
+2022/11/03 20:24:34 The peer is waiting to get all the 0 replies
+2022/11/03 20:24:34 ****START CRITICAL SECTION**** state: "CS"
+2022/11/03 20:24:41 ****END CRITICAL SECTION**** state: "NCS"
+2022/11/03 20:24:44 The peer is now in state "REQUESTING": he will send the request messages
+2022/11/03 20:24:44 The peer is waiting to get all the 0 replies
+2022/11/03 20:24:44 ****START CRITICAL SECTION**** state: "CS"
+2022/11/03 20:24:47 ****END CRITICAL SECTION**** state: "NCS"
+2022/11/03 20:24:47 This peer finished the simulation but will stay up waiting for the others to do the same
+2022/11/03 20:24:48 No requests came from peers for a long time: this peer is shutting down

@@ -1,0 +1,64 @@
+2022/11/03 19:51:14 Peer registered with identifier: 3
+2022/11/03 19:51:18 Peer got the list of peers and started the simulation
+2022/11/03 19:51:20 The peer is now in state "REQUESTING": he will send the request messages
+2022/11/03 19:51:21 First connection: trying to connect to 192.168.1.171:10962 for the 1 time
+2022/11/03 19:51:21 Request message number 0 sent to peer with ip: 192.168.1.171:10962
+2022/11/03 19:51:21 First connection: trying to connect to 192.168.1.171:10952 for the 1 time
+2022/11/03 19:51:22 The peer got a reply message and is updating his old replyNumber (0) with (1)
+2022/11/03 19:51:22 Request message number 1 sent to peer with ip: 192.168.1.171:10952
+2022/11/03 19:51:22 The peer got a request and he can send the reply message
+2022/11/03 19:51:23 First connection: trying to connect to 192.168.1.171:10731 for the 1 time
+2022/11/03 19:51:23 The peer got a request but he is already requesting and his request has a smaller timestamp or id: he will append the request in the list and send the reply later
+2022/11/03 19:51:23 The peer is updating its old timestamp (1) with the requester one (2)
+2022/11/03 19:51:24 The peer got a reply message and is updating his old replyNumber (1) with (2)
+2022/11/03 19:51:24 Request message number 2 sent to peer with ip: 192.168.1.171:10731
+2022/11/03 19:51:24 The peer is waiting to get all the 3 replies
+2022/11/03 19:51:24 The peer got a request but he is already requesting and his request has a smaller timestamp or id: he will append the request in the list and send the reply later
+2022/11/03 19:51:28 The peer got a reply message and is updating his old replyNumber (2) with (3)
+2022/11/03 19:51:28 ****START CRITICAL SECTION**** state: "CS"
+2022/11/03 19:51:36 The peer got a request but he's in CS: he will append the request in the list and send the reply later
+2022/11/03 19:51:36 The peer is updating its old timestamp (2) with the requester one (3)
+2022/11/03 19:51:36 ****END CRITICAL SECTION**** state: "NCS"
+2022/11/03 19:51:37 The peer correctly sent the reply message number 0 to peer with ip: 192.168.1.171:10952
+2022/11/03 19:51:38 The peer correctly sent the reply message number 1 to peer with ip: 192.168.1.171:10731
+2022/11/03 19:51:39 The peer correctly sent the reply message number 2 to peer with ip: 192.168.1.171:10962
+2022/11/03 19:51:40 The peer is now in state "REQUESTING": he will send the request messages
+2022/11/03 19:51:41 Trying to connect to 192.168.1.171:10962
+2022/11/03 19:51:41 Request message number 0 sent to peer with ip: 192.168.1.171:10962
+2022/11/03 19:51:42 Trying to connect to 192.168.1.171:10952
+2022/11/03 19:51:42 Request message number 1 sent to peer with ip: 192.168.1.171:10952
+2022/11/03 19:51:42 Trying to connect to 192.168.1.171:10731
+2022/11/03 19:51:43 Request message number 2 sent to peer with ip: 192.168.1.171:10731
+2022/11/03 19:51:43 The peer is waiting to get all the 3 replies
+2022/11/03 19:51:45 The peer got a reply message and is updating his old replyNumber (0) with (1)
+2022/11/03 19:51:47 The peer got a reply message and is updating his old replyNumber (1) with (2)
+2022/11/03 19:51:51 The peer got a request but he is already requesting and his request has a smaller timestamp or id: he will append the request in the list and send the reply later
+2022/11/03 19:51:51 The peer is updating its old timestamp (4) with the requester one (5)
+2022/11/03 19:51:51 The peer got a request but he is already requesting and his request has a smaller timestamp or id: he will append the request in the list and send the reply later
+2022/11/03 19:51:52 The peer got a reply message and is updating his old replyNumber (2) with (3)
+2022/11/03 19:51:52 ****START CRITICAL SECTION**** state: "CS"
+2022/11/03 19:51:55 ****END CRITICAL SECTION**** state: "NCS"
+2022/11/03 19:51:56 The peer correctly sent the reply message number 0 to peer with ip: 192.168.1.171:10731
+2022/11/03 19:51:57 The peer correctly sent the reply message number 1 to peer with ip: 192.168.1.171:10952
+2022/11/03 19:52:00 The peer is now in state "REQUESTING": he will send the request messages
+2022/11/03 19:52:01 The peer got a request and he can send the reply message
+2022/11/03 19:52:01 Trying to connect to 192.168.1.171:10962
+2022/11/03 19:52:01 Request message number 0 sent to peer with ip: 192.168.1.171:10962
+2022/11/03 19:52:03 Trying to connect to 192.168.1.171:10952
+2022/11/03 19:52:03 The peer got a reply message and is updating his old replyNumber (0) with (1)
+2022/11/03 19:52:03 Request message number 1 sent to peer with ip: 192.168.1.171:10952
+2022/11/03 19:52:04 Trying to connect to 192.168.1.171:10731
+2022/11/03 19:52:04 Request message number 2 sent to peer with ip: 192.168.1.171:10731
+2022/11/03 19:52:04 The peer is waiting to get all the 3 replies
+2022/11/03 19:52:08 The peer got a request but he is already requesting and his request has a smaller timestamp or id: he will append the request in the list and send the reply later
+2022/11/03 19:52:08 The peer is updating its old timestamp (6) with the requester one (7)
+2022/11/03 19:52:11 The peer got a reply message and is updating his old replyNumber (1) with (2)
+2022/11/03 19:52:17 The peer got a request but he is already requesting and his request has a smaller timestamp or id: he will append the request in the list and send the reply later
+2022/11/03 19:52:17 The peer is updating its old timestamp (7) with the requester one (8)
+2022/11/03 19:52:18 The peer got a reply message and is updating his old replyNumber (2) with (3)
+2022/11/03 19:52:18 ****START CRITICAL SECTION**** state: "CS"
+2022/11/03 19:52:23 ****END CRITICAL SECTION**** state: "NCS"
+2022/11/03 19:52:24 The peer correctly sent the reply message number 0 to peer with ip: 192.168.1.171:10952
+2022/11/03 19:52:25 The peer correctly sent the reply message number 1 to peer with ip: 192.168.1.171:10731
+2022/11/03 19:52:25 This peer finished the simulation but will stay up waiting for the others to do the same
+2022/11/03 19:52:48 No requests came from peers for a long time: this peer is shutting down

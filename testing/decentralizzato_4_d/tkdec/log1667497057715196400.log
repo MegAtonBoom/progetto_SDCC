@@ -1,0 +1,19 @@
+2022/11/03 18:37:38 Peer registered with identifier: 2
+2022/11/03 18:37:46 Peer got the list of peers and started the simulation
+2022/11/03 18:37:46 Peer retrieving his neighbor in the ring
+2022/11/03 18:37:46 Waiting the token for the neighbor peer
+2022/11/03 18:38:01 ****START/END CRITICAL SECTION**** the peer doesn't need to get into critical section
+2022/11/03 18:38:02 First connection: trying to connect to 192.168.1.171:10380 for the 1 time
+2022/11/03 18:38:02 Sending token to the neighbor 192.168.1.171:10380
+2022/11/03 18:38:02 Waiting the token for the neighbor peer
+2022/11/03 18:38:24 ****START CRITICAL SECTION**** the peer needs to get into critical section
+2022/11/03 18:38:27 ****END CRITICAL SECTION**** the peer needed to get into critical section
+2022/11/03 18:38:28 Trying to connect to 192.168.1.171:10380
+2022/11/03 18:38:28 Sending token to the neighbor 192.168.1.171:10380
+2022/11/03 18:38:28 Waiting the token for the neighbor peer
+2022/11/03 18:38:47 ****START CRITICAL SECTION**** the peer needs to get into critical section
+2022/11/03 18:38:52 ****END CRITICAL SECTION**** the peer needed to get into critical section
+2022/11/03 18:38:53 Trying to connect to 192.168.1.171:10380
+2022/11/03 18:38:53 Sending token to the neighbor 192.168.1.171:10380
+2022/11/03 18:38:53 This peer finished the simulation but will stay up waiting for the others to do the same
+2022/11/03 18:40:46 No requests came from peers for a long time: this peer is shutting down

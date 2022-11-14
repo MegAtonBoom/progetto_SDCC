@@ -1,0 +1,63 @@
+2022/11/03 19:51:13 Peer registered with identifier: 1
+2022/11/03 19:51:16 Peer got the list of peers and started the simulation
+2022/11/03 19:51:18 The peer got a request and he can send the reply message
+2022/11/03 19:51:18 The peer is updating its old timestamp (0) with the requester one (1)
+2022/11/03 19:51:19 The peer is now in state "REQUESTING": he will send the request messages
+2022/11/03 19:51:20 First connection: trying to connect to 192.168.1.171:10962 for the 1 time
+2022/11/03 19:51:20 Request message number 0 sent to peer with ip: 192.168.1.171:10962
+2022/11/03 19:51:21 First connection: trying to connect to 192.168.1.171:10731 for the 1 time
+2022/11/03 19:51:22 The peer got a request and he can send the reply message
+2022/11/03 19:51:22 The peer got a reply message and is updating his old replyNumber (0) with (1)
+2022/11/03 19:51:22 Request message number 2 sent to peer with ip: 192.168.1.171:10731
+2022/11/03 19:51:23 The peer got a request but he is already requesting and his request has a smaller timestamp or id: he will append the request in the list and send the reply later
+2022/11/03 19:51:23 First connection: trying to connect to 192.168.1.171:10422 for the 1 time
+2022/11/03 19:51:23 Request message number 3 sent to peer with ip: 192.168.1.171:10422
+2022/11/03 19:51:23 The peer is waiting to get all the 3 replies
+2022/11/03 19:51:27 The peer got a reply message and is updating his old replyNumber (1) with (2)
+2022/11/03 19:51:33 The peer got a request but he is already requesting and his request has a smaller timestamp or id: he will append the request in the list and send the reply later
+2022/11/03 19:51:33 The peer is updating its old timestamp (2) with the requester one (3)
+2022/11/03 19:51:37 The peer got a reply message and is updating his old replyNumber (2) with (3)
+2022/11/03 19:51:37 ****START CRITICAL SECTION**** state: "CS"
+2022/11/03 19:51:42 The peer got a request but he's in CS: he will append the request in the list and send the reply later
+2022/11/03 19:51:42 The peer is updating its old timestamp (3) with the requester one (4)
+2022/11/03 19:51:43 ****END CRITICAL SECTION**** state: "NCS"
+2022/11/03 19:51:44 The peer correctly sent the reply message number 0 to peer with ip: 192.168.1.171:10731
+2022/11/03 19:51:44 The peer correctly sent the reply message number 1 to peer with ip: 192.168.1.171:10962
+2022/11/03 19:51:45 The peer correctly sent the reply message number 2 to peer with ip: 192.168.1.171:10422
+2022/11/03 19:51:47 The peer is now in state "REQUESTING": he will send the request messages
+2022/11/03 19:51:48 Trying to connect to 192.168.1.171:10962
+2022/11/03 19:51:48 Request message number 0 sent to peer with ip: 192.168.1.171:10962
+2022/11/03 19:51:49 Trying to connect to 192.168.1.171:10731
+2022/11/03 19:51:50 The peer got a reply message and is updating his old replyNumber (0) with (1)
+2022/11/03 19:51:50 Request message number 2 sent to peer with ip: 192.168.1.171:10731
+2022/11/03 19:51:50 The peer got a request but he is already requesting and his request has a smaller timestamp or id: he will append the request in the list and send the reply later
+2022/11/03 19:51:51 Trying to connect to 192.168.1.171:10422
+2022/11/03 19:51:51 Request message number 3 sent to peer with ip: 192.168.1.171:10422
+2022/11/03 19:51:51 The peer is waiting to get all the 3 replies
+2022/11/03 19:51:53 The peer got a reply message and is updating his old replyNumber (1) with (2)
+2022/11/03 19:51:57 The peer got a reply message and is updating his old replyNumber (2) with (3)
+2022/11/03 19:51:57 ****START CRITICAL SECTION**** state: "CS"
+2022/11/03 19:51:57 The peer got a request but he's in CS: he will append the request in the list and send the reply later
+2022/11/03 19:51:57 The peer is updating its old timestamp (5) with the requester one (6)
+2022/11/03 19:52:00 ****END CRITICAL SECTION**** state: "NCS"
+2022/11/03 19:52:02 The peer correctly sent the reply message number 0 to peer with ip: 192.168.1.171:10731
+2022/11/03 19:52:02 The peer correctly sent the reply message number 1 to peer with ip: 192.168.1.171:10962
+2022/11/03 19:52:03 The peer got a request and he can send the reply message
+2022/11/03 19:52:05 The peer is now in state "REQUESTING": he will send the request messages
+2022/11/03 19:52:05 Trying to connect to 192.168.1.171:10962
+2022/11/03 19:52:05 Request message number 0 sent to peer with ip: 192.168.1.171:10962
+2022/11/03 19:52:07 Trying to connect to 192.168.1.171:10731
+2022/11/03 19:52:07 Request message number 2 sent to peer with ip: 192.168.1.171:10731
+2022/11/03 19:52:08 Trying to connect to 192.168.1.171:10422
+2022/11/03 19:52:08 Request message number 3 sent to peer with ip: 192.168.1.171:10422
+2022/11/03 19:52:08 The peer is waiting to get all the 3 replies
+2022/11/03 19:52:12 The peer got a reply message and is updating his old replyNumber (0) with (1)
+2022/11/03 19:52:17 The peer got a request but he is already requesting and his request has a smaller timestamp or id: he will append the request in the list and send the reply later
+2022/11/03 19:52:17 The peer is updating its old timestamp (7) with the requester one (8)
+2022/11/03 19:52:19 The peer got a reply message and is updating his old replyNumber (1) with (2)
+2022/11/03 19:52:24 The peer got a reply message and is updating his old replyNumber (2) with (3)
+2022/11/03 19:52:24 ****START CRITICAL SECTION**** state: "CS"
+2022/11/03 19:52:27 ****END CRITICAL SECTION**** state: "NCS"
+2022/11/03 19:52:28 The peer correctly sent the reply message number 0 to peer with ip: 192.168.1.171:10731
+2022/11/03 19:52:28 This peer finished the simulation but will stay up waiting for the others to do the same
+2022/11/03 19:52:46 No requests came from peers for a long time: this peer is shutting down

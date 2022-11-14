@@ -1,0 +1,11 @@
+2022/11/03 19:51:05 The registerer is up and ready to accept next 4 peers requests
+2022/11/03 19:51:10 Got a request to register from a peer with address 192.168.1.171:10962
+2022/11/03 19:51:13 Got a request to register from a peer with address 192.168.1.171:10952
+2022/11/03 19:51:13 Got a request to register from a peer with address 192.168.1.171:10731
+2022/11/03 19:51:14 Got a request to register from a peer with address 192.168.1.171:10422
+2022/11/03 19:51:14 Register full
+2022/11/03 19:51:14 Registerer sent data to peer with ip: 192.168.1.171:10962
+2022/11/03 19:51:14 Registerer sent data to peer with ip: 192.168.1.171:10952
+2022/11/03 19:51:16 Registerer sent data to peer with ip: 192.168.1.171:10731
+2022/11/03 19:51:17 Registerer sent data to peer with ip: 192.168.1.171:10422
+2022/11/03 19:51:18 registerer sent data to peers and now is shutting down

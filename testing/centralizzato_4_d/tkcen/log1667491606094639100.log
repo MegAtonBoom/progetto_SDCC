@@ -1,0 +1,59 @@
+2022/11/03 17:06:46 Centralized token peer registered with port: 10550
+2022/11/03 17:06:47 Peer registered with identifier: 1
+2022/11/03 17:06:59 Peer got the list of peers and started the simulation
+2022/11/03 17:07:01 Requesting the token to the coordinator
+2022/11/03 17:07:01 Sending program messages to the other peers with the curren vectorial clock being: [0,1,0,0]
+2022/11/03 17:07:01 Waiting for the token from the coordinator
+2022/11/03 17:07:02 First connection: trying to connect to 10.220.127.132:10000 for the 1 time
+2022/11/03 17:07:02 Sent program message to peer with address: 10.220.127.132:10000
+2022/11/03 17:07:02 ****START CRITICAL SECTION****
+2022/11/03 17:07:02 Got a program message from peer with address 10.220.127.132:10000 with clock: [1,1,0,0] while mine is: [0,1,0,0]
+2022/11/03 17:07:02 After the program message from 10.220.127.132:10000 the updated clock is [1,1,0,0]
+2022/11/03 17:07:03 First connection: trying to connect to 10.220.127.132:10767 for the 1 time
+2022/11/03 17:07:03 Sent program message to peer with address: 10.220.127.132:10767
+2022/11/03 17:07:04 Got a program message from peer with address 10.220.127.132:10448 with clock: [0,0,0,1] while mine is: [1,1,0,0]
+2022/11/03 17:07:04 After the program message from 10.220.127.132:10448 the updated clock is [1,1,0,1]
+2022/11/03 17:07:05 First connection: trying to connect to 10.220.127.132:10448 for the 1 time
+2022/11/03 17:07:05 Sent program message to peer with address: 10.220.127.132:10448
+2022/11/03 17:07:05 ****END CRITICAL SECTION****
+2022/11/03 17:07:05 Returning token to the coordinator
+2022/11/03 17:07:05 Got a program message from peer with address 10.220.127.132:10767 with clock: [1,1,1,1] while mine is: [1,1,0,1]
+2022/11/03 17:07:05 After the program message from 10.220.127.132:10767 the updated clock is [1,1,1,1]
+2022/11/03 17:07:09 Requesting the token to the coordinator
+2022/11/03 17:07:09 Sending program messages to the other peers with the curren vectorial clock being: [1,2,1,1]
+2022/11/03 17:07:09 Waiting for the token from the coordinator
+2022/11/03 17:07:10 Trying to connect to 10.220.127.132:10000
+2022/11/03 17:07:10 Sent program message to peer with address: 10.220.127.132:10000
+2022/11/03 17:07:11 Trying to connect to 10.220.127.132:10767
+2022/11/03 17:07:11 Sent program message to peer with address: 10.220.127.132:10767
+2022/11/03 17:07:11 Trying to connect to 10.220.127.132:10448
+2022/11/03 17:07:11 Sent program message to peer with address: 10.220.127.132:10448
+2022/11/03 17:07:22 Got a program message from peer with address 10.220.127.132:10000 with clock: [2,2,1,1] while mine is: [1,2,1,1]
+2022/11/03 17:07:22 After the program message from 10.220.127.132:10000 the updated clock is [2,2,1,1]
+2022/11/03 17:07:31 Got a program message from peer with address 10.220.127.132:10448 with clock: [2,2,1,2] while mine is: [2,2,1,1]
+2022/11/03 17:07:31 After the program message from 10.220.127.132:10448 the updated clock is [2,2,1,2]
+2022/11/03 17:07:36 ****START CRITICAL SECTION****
+2022/11/03 17:07:38 ****END CRITICAL SECTION****
+2022/11/03 17:07:38 Returning token to the coordinator
+2022/11/03 17:07:40 Requesting the token to the coordinator
+2022/11/03 17:07:40 Sending program messages to the other peers with the curren vectorial clock being: [2,3,1,2]
+2022/11/03 17:07:40 Waiting for the token from the coordinator
+2022/11/03 17:07:41 Got a program message from peer with address 10.220.127.132:10767 with clock: [2,2,2,2] while mine is: [2,3,1,2]
+2022/11/03 17:07:41 After the program message from 10.220.127.132:10767 the updated clock is [2,3,2,2]
+2022/11/03 17:07:41 Trying to connect to 10.220.127.132:10000
+2022/11/03 17:07:41 Sent program message to peer with address: 10.220.127.132:10000
+2022/11/03 17:07:42 Trying to connect to 10.220.127.132:10767
+2022/11/03 17:07:42 Sent program message to peer with address: 10.220.127.132:10767
+2022/11/03 17:07:43 Trying to connect to 10.220.127.132:10448
+2022/11/03 17:07:43 Sent program message to peer with address: 10.220.127.132:10448
+2022/11/03 17:07:53 Got a program message from peer with address 10.220.127.132:10000 with clock: [3,3,2,2] while mine is: [2,3,2,2]
+2022/11/03 17:07:53 After the program message from 10.220.127.132:10000 the updated clock is [3,3,2,2]
+2022/11/03 17:07:57 Got a program message from peer with address 10.220.127.132:10448 with clock: [3,3,2,3] while mine is: [3,3,2,2]
+2022/11/03 17:07:57 After the program message from 10.220.127.132:10448 the updated clock is [3,3,2,3]
+2022/11/03 17:08:06 ****START CRITICAL SECTION****
+2022/11/03 17:08:10 ****END CRITICAL SECTION****
+2022/11/03 17:08:10 Returning token to the coordinator
+2022/11/03 17:08:11 Got a program message from peer with address 10.220.127.132:10767 with clock: [3,3,3,3] while mine is: [3,3,2,3]
+2022/11/03 17:08:11 After the program message from 10.220.127.132:10767 the updated clock is [3,3,3,3]
+2022/11/03 17:08:12 This peer finished the simulation but will stay up waiting for the others to do the same
+2022/11/03 17:08:29 No requests came from peers for a long time: this peer is shutting down

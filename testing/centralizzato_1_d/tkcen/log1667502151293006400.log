@@ -1,0 +1,23 @@
+2022/11/03 20:02:31 Centralized token peer registered with port: 10091
+2022/11/03 20:02:32 Peer registered with identifier: 0
+2022/11/03 20:02:32 Peer got the list of peers and started the simulation
+2022/11/03 20:02:36 Requesting the token to the coordinator
+2022/11/03 20:02:36 Sending program messages to the other peers with the curren vectorial clock being: [1]
+2022/11/03 20:02:36 Waiting for the token from the coordinator
+2022/11/03 20:02:38 ****START CRITICAL SECTION****
+2022/11/03 20:02:43 ****END CRITICAL SECTION****
+2022/11/03 20:02:43 Returning token to the coordinator
+2022/11/03 20:02:46 Requesting the token to the coordinator
+2022/11/03 20:02:46 Sending program messages to the other peers with the curren vectorial clock being: [2]
+2022/11/03 20:02:46 Waiting for the token from the coordinator
+2022/11/03 20:02:47 ****START CRITICAL SECTION****
+2022/11/03 20:02:48 ****END CRITICAL SECTION****
+2022/11/03 20:02:48 Returning token to the coordinator
+2022/11/03 20:02:53 Requesting the token to the coordinator
+2022/11/03 20:02:53 Sending program messages to the other peers with the curren vectorial clock being: [3]
+2022/11/03 20:02:53 Waiting for the token from the coordinator
+2022/11/03 20:02:54 ****START CRITICAL SECTION****
+2022/11/03 20:02:57 ****END CRITICAL SECTION****
+2022/11/03 20:02:57 Returning token to the coordinator
+2022/11/03 20:02:58 This peer finished the simulation but will stay up waiting for the others to do the same
+2022/11/03 20:03:02 No requests came from peers for a long time: this peer is shutting down

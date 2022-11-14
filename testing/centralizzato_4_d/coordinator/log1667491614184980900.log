@@ -1,0 +1,61 @@
+2022/11/03 17:06:54 Coordinator avaiable, listening to messages from peers
+2022/11/03 17:07:02 Got a token request from peer with ip: 10.220.127.132:10550 and the request is eligible
+2022/11/03 17:07:02 The coordinator updated his timestamp
+2022/11/03 17:07:02 The coordinator has also the token: sending token to the requester
+2022/11/03 17:07:02 Got a token request from peer with ip: 10.220.127.132:10000 and the request is eligible
+2022/11/03 17:07:02 The coordinator has not the token or the request is not eligible: it was appended on the request list wich is now size 1
+2022/11/03 17:07:03 Got a token request from peer with ip: 10.220.127.132:10448 and the request is eligible
+2022/11/03 17:07:03 The coordinator has not the token or the request is not eligible: it was appended on the request list wich is now size 2
+2022/11/03 17:07:05 Got a token request from peer with ip: 10.220.127.132:10767 and the request is not eligible
+2022/11/03 17:07:05 The coordinator has not the token or the request is not eligible: it was appended on the request list wich is now size 3
+2022/11/03 17:07:06 Got the token back: checking for pending eligible requests
+2022/11/03 17:07:06 The coordinator updated his timestamp
+2022/11/03 17:07:06 Found an eligible request: sending token to peer with ip: 10.220.127.132:10000
+2022/11/03 17:07:10 Got a token request from peer with ip: 10.220.127.132:10550 and the request is not eligible
+2022/11/03 17:07:10 The coordinator has not the token or the request is not eligible: it was appended on the request list wich is now size 3
+2022/11/03 17:07:16 Got the token back: checking for pending eligible requests
+2022/11/03 17:07:16 The coordinator updated his timestamp
+2022/11/03 17:07:17 Found an eligible request: sending token to peer with ip: 10.220.127.132:10448
+2022/11/03 17:07:22 Got a token request from peer with ip: 10.220.127.132:10000 and the request is not eligible
+2022/11/03 17:07:22 The coordinator has not the token or the request is not eligible: it was appended on the request list wich is now size 3
+2022/11/03 17:07:27 Got the token back: checking for pending eligible requests
+2022/11/03 17:07:27 The coordinator updated his timestamp
+2022/11/03 17:07:28 Found an eligible request: sending token to peer with ip: 10.220.127.132:10767
+2022/11/03 17:07:30 Got a token request from peer with ip: 10.220.127.132:10448 and the request is not eligible
+2022/11/03 17:07:30 The coordinator has not the token or the request is not eligible: it was appended on the request list wich is now size 3
+2022/11/03 17:07:35 Got the token back: checking for pending eligible requests
+2022/11/03 17:07:35 The coordinator updated his timestamp
+2022/11/03 17:07:36 Found an eligible request: sending token to peer with ip: 10.220.127.132:10550
+2022/11/03 17:07:39 Got the token back: checking for pending eligible requests
+2022/11/03 17:07:39 The coordinator updated his timestamp
+2022/11/03 17:07:39 Got a token request from peer with ip: 10.220.127.132:10767 and the request is not eligible
+2022/11/03 17:07:39 The coordinator has not the token or the request is not eligible: it was appended on the request list wich is now size 2
+2022/11/03 17:07:39 Found an eligible request: sending token to peer with ip: 10.220.127.132:10000
+2022/11/03 17:07:42 Got a token request from peer with ip: 10.220.127.132:10550 and the request is not eligible
+2022/11/03 17:07:42 The coordinator has not the token or the request is not eligible: it was appended on the request list wich is now size 3
+2022/11/03 17:07:46 Got the token back: checking for pending eligible requests
+2022/11/03 17:07:46 The coordinator updated his timestamp
+2022/11/03 17:07:47 Found an eligible request: sending token to peer with ip: 10.220.127.132:10448
+2022/11/03 17:07:53 Got a token request from peer with ip: 10.220.127.132:10000 and the request is not eligible
+2022/11/03 17:07:53 The coordinator has not the token or the request is not eligible: it was appended on the request list wich is now size 3
+2022/11/03 17:07:53 Got the token back: checking for pending eligible requests
+2022/11/03 17:07:53 The coordinator updated his timestamp
+2022/11/03 17:07:54 Found an eligible request: sending token to peer with ip: 10.220.127.132:10767
+2022/11/03 17:07:56 Got a token request from peer with ip: 10.220.127.132:10448 and the request is not eligible
+2022/11/03 17:07:56 The coordinator has not the token or the request is not eligible: it was appended on the request list wich is now size 3
+2022/11/03 17:08:05 Got the token back: checking for pending eligible requests
+2022/11/03 17:08:05 The coordinator updated his timestamp
+2022/11/03 17:08:06 Found an eligible request: sending token to peer with ip: 10.220.127.132:10550
+2022/11/03 17:08:10 Got a token request from peer with ip: 10.220.127.132:10767 and the request is not eligible
+2022/11/03 17:08:10 The coordinator has not the token or the request is not eligible: it was appended on the request list wich is now size 3
+2022/11/03 17:08:11 Got the token back: checking for pending eligible requests
+2022/11/03 17:08:11 The coordinator updated his timestamp
+2022/11/03 17:08:12 Found an eligible request: sending token to peer with ip: 10.220.127.132:10000
+2022/11/03 17:08:21 Got the token back: checking for pending eligible requests
+2022/11/03 17:08:21 The coordinator updated his timestamp
+2022/11/03 17:08:21 Found an eligible request: sending token to peer with ip: 10.220.127.132:10448
+2022/11/03 17:08:25 Got the token back: checking for pending eligible requests
+2022/11/03 17:08:25 The coordinator updated his timestamp
+2022/11/03 17:08:27 Found an eligible request: sending token to peer with ip: 10.220.127.132:10767
+2022/11/03 17:08:35 Got the token back: checking for pending eligible requests
+2022/11/03 17:08:54 No requests came from peers for a long time: the coordinator is shutting down
